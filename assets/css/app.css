@@ -1,0 +1,15 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: #2C2F33;
+}
+
+#board{
+    margin-top: 15px;
+    background-image: url("../img/flappybirdbg.png");
+}
